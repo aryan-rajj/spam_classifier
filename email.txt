@@ -1,0 +1,7 @@
+Subject: Transaction Alert
+
+Dear Customer,
+Your account has been debited with INR 2,500 on 21-Dec-2025.
+If this was not you, please contact customer support.
+
+SBI Bank
